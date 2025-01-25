@@ -1,4 +1,5 @@
 import {
+  getEthersIcon,
   getFirebaseIcon,
   getGithubIcon,
   getJSIcon,
@@ -6,9 +7,12 @@ import {
   getNextJSIcon,
   getNodeJsIcon,
   getReactIcon,
+  getReactQueryIcon,
   getReduxIcon,
   getTSIcon,
   getTailwindIcon,
+  getWeb3Icon,
+  getZustandIcon,
 } from "../icons";
 
 export const Technologies = () => {

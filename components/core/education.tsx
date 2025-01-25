@@ -2,11 +2,11 @@ export const Education = () => {
   const EDUCATION_DATA = [
     {
       college: "🇮🇳 Lovely Professional University ",
-      title: "B.Tech in Computer Science | CGPA: 7.85",
+      title: "B.Tech in Computer Science | CGPA: 8.2",
       dateData: "2019 - 2023",
     },
     {
-      college: "Army Public School Ambala Cantt",
+      college: "G.N National Public School",
       title: "Higher secondary education",
       dateData: "April, 2017 - , 2019",
     },
@@ -24,7 +24,7 @@ export const Education = () => {
             <a
               key={Math.random()}
               rel="noreferrer"
-              href="https://www.linkedin.com/in/kamal-kishore-joshi-11904829/details/education/"
+              href="https://www.linkedin.com/in/harsh-yadav-11906014/details/education/"
               target="_blank"
             >
               <div className="sm:transition-transform hover:sm:-translate-y-0.5">

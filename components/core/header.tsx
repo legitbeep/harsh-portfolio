@@ -12,14 +12,14 @@ export const Header = () => {
           <div
             className="h-10 w-10 rounded-lg"
             style={{
-              backgroundImage: "url('/Kamal.Jpeg')",
+              backgroundImage: "url('/harsh.jpeg')",
               backgroundSize: "cover",
               backgroundPosition: "center",
               backgroundRepeat: "no-repeat",
             }}
           ></div>
           <span className="text-gradient text-xl font-semibold tracking-tight">
-            Kamal
+            Harsh Yadav
           </span>
         </a>
         <div>

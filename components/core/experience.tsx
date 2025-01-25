@@ -3,14 +3,19 @@ import { getNextJSIcon } from "../icons";
 export const Experience = () => {
   const EXPERIENCE_DATA = [
     {
-      company: "🇮🇳 Bajaj Finserv Health",
-      title: "Associate Software Development Engineer",
-      dateData: "Jul, 2022 - Present",
+      company: "🇮🇳 MindPeers",
+      title: "Software Developer",
+      dateData: "Jun, 2023 - Present",
+    },
+    {
+      company: "🇮🇳 Rapid Innovations ",
+      title: "SDE Frontend",
+      dateData: "Mar, 2022 - May, 2023",
     },
     {
       company: "🇮🇳 Eyudh ",
-      title: "Intern (Software Developer)",
-      dateData: "Aug, 2021 - Jun, 2022",
+      title: "Co-Founder",
+      dateData: "Nov, 2020 - Feb, 2022",
     },
   ];
 
@@ -26,7 +31,7 @@ export const Experience = () => {
             <a
               key={Math.random()}
               rel="noreferrer"
-              href="https://www.linkedin.com/in//kamal-kishore-joshi-11904829/details/experience/"
+              href="https://www.linkedin.com/in/harsh-yadav-11906014/details/experience/"
               target="_blank"
             >
               <div className="sm:transition-transform hover:sm:-translate-y-0.5">

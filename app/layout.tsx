@@ -9,8 +9,9 @@ const font = Hanken_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Kamal Joshi",
-  description: "Highly adept developer with exceptional logical prowess, capable of crafting elegant solutions to complex problems with precision and efficiency.",
+  title: "Harsh Yadav",
+  description:
+    "Highly adept developer with exceptional logical prowess, capable of crafting elegant solutions to complex problems with precision and efficiency.",
 };
 
 export default function RootLayout({

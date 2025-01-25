@@ -8,15 +8,27 @@ export const Projects = () => {
       dateData: "Nov 2023 - Present",
     },
     {
-      title: "🤖 Social Commerce",
+      title: "🎨 Art Official",
       description:
-        "Designed and developed Social Commerce System that enabled customer engagement through community interaction, product rating-based search, and picture sharing for enhanced shopping experiences.",
-      dateData: "Nov 2021 ",
+        "NFT marketplace for artists to mint and sell their art. Developed using React, Solidity, and IPFS.",
+      dateData: "Jul 2022 ",
+    },
+    {
+      title: "🪙 Pico Wallet",
+      description:
+        "Developed Web3 crypto wallet using React Native for a client. Which supports multiple chains and currencies.",
+      dateData: "Feb 2023 ",
+    },
+    {
+      title: "🤖 Analytics Ai",
+      description:
+        "An Ai powered analytics platform which provides insights and predictions for businesses. Developed using React, langflow and datastax.",
+      dateData: "Jan 2025 ",
     },
     {
       title: " 🛣️ PathFinder-GUI",
       description:
-        "This Project find’s path between two points and return the shortest path from the paths from start to end depending on algorithm used. Algorithm used are A*, Dijkstra, BFS and DFS to find the shortest path from start to end.",
+        "This Project find's path between two points and return the shortest path from the paths from start to end depending on algorithm used. Algorithm used are A*, Dijkstra, BFS and DFS to find the shortest path from start to end.",
       dateData: "Jan 2021 ",
     },
   ];
