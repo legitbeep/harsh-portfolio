@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://kamalj.com",
+    sitemap: "harsh-portfolio-b7zxzkqk2-legitbeeps-projects.vercel.app",
   };
 }
