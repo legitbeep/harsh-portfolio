@@ -8,7 +8,7 @@ export const Education = () => {
     {
       college: "G.N National Public School",
       title: "Higher secondary education",
-      dateData: "April, 2017 - , 2019",
+      dateData: "April, 2017 - 2019",
     },
   ];
 
