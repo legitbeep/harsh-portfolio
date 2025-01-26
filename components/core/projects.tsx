@@ -1,13 +1,6 @@
 export const Projects = () => {
   const PROJECTS_DATA = [
     {
-      title: "🚀 GetByte",
-      description:
-        "Getbyte empowers products to achieve top visibility and sales through its unique, fair-ranking algorithm",
-      link: "https://getbyte.tech",
-      dateData: "Nov 2023 - Present",
-    },
-    {
       title: "🎨 Art Official",
       description:
         "NFT marketplace for artists to mint and sell their art. Developed using React, Solidity, and IPFS.",

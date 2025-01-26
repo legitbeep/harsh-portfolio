@@ -5,11 +5,11 @@ export const Achievement = () => {
       description: " Bajaj HackrX 2.0",
       dateData: "Mar 2024",
     },
-    {
-      title: "🥇 Product of the Day Award Winner",
-      description: "Product Hunt",
-      dateData: "Feb 2024",
-    },
+    // {
+    //   title: "🥇 Product of the Day Award Winner",
+    //   description: "Product Hunt",
+    //   dateData: "Feb 2024",
+    // },
     {
       title: "🎖️ Ranked 171 nationwide",
       description: "Newton Coding Challenge 2020",
